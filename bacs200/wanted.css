@@ -1,9 +1,35 @@
 body {
-    color: blue;
+    color: black;
 }
 
 h1 {
-    color: pink;
+    color: darkgrey;
     text-align: center;
+    background-color:azure;
+    text-emphasis: dark;
+}
+* {
+    padding: 1px;
+    margin: 10px;
+}
+
+body {
+    border: solid 10
+        px gray;
+    background-color: gray;
+}
+
+header {
+    border: solid 10px blue;
+    background-color: beige;
+}
+
+footer {
+    border: solid 3px lightpurple;
+    background-color: mediumpurple;
+}
+
+main {
+    border: solid 3px yellow;
     background-color: white;
 }
