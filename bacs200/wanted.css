@@ -52,12 +52,11 @@ h2{
     margin-left:50px
 }
 footer{
-    background-color:white;
+    background-color:skyblue;
     text-align: center;
     border: solid 5px darkgrey;
     border-radius:30px;
-    width:400px;
-    padding-left: 500px;
-    padding-right: 500px;
-    margin:auto
+    width:200px;
+    margin:auto;
+    
 }
