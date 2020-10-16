@@ -1,62 +1,69 @@
 body {
-   background-color:darkblue;
+    background-color: darkblue;
 }
 
-Header{
-    margin:auto;
-    background-color:skyblue;
+Header {
+    margin: auto;
+    background-color: skyblue;
     border: solid 5px darkgrey;
     text-align: center;
     font-family: fantasy, cursive, sans-serif;
     border-radius: 30px;
-    width:500px
+    width: 500px
 }
 
-h1 *{
+h1 * {
     text-align: center;
 }
-h3{
+
+h3 {
     text-align: center;
-    font-size:25px;
+    font-size: 25px;
 }
-main{
-    margin:auto;
-    background-color:darkcyan;
-    font-family:fantasy, cursive, sans-serif;
+
+main {
+    margin: auto;
+    background-color: darkcyan;
+    font-family: fantasy, cursive, sans-serif;
     border-radius: 50px;
-    border:solid 5px darkgrey;
+    border: solid 5px darkgrey;
     width: 800px;
-    font-size:20px;
-    color:whitesmoke;
+    font-size: 20px;
+    color: whitesmoke;
     padding-bottom: 10px;
 }
-h1{
+
+h1 {
     font-size: 50px;
     padding: 10px;
     text-align: center;
 }
-img{ margin-left:50px;
+
+img {
+    margin-left: 50px;
 }
-aside{
-    background-color:antiquewhite;
+
+aside {
+    background-color: antiquewhite;
     border: solid 5px gray;
-    float:right;
-    text-align:left;
-    padding:25px;
-    margin-right:50px;
-    color:black;
+    float: right;
+    text-align: left;
+    padding: 25px;
+    margin-right: 50px;
+    color: black;
     padding-bottom: 10px
-    }
-h2{
-    align-content:center;
-    margin-left:50px
 }
-footer{
-    background-color:skyblue;
+
+h2 {
+    align-content: center;
+    margin-left: 50px
+}
+
+footer {
+    background-color: skyblue;
     text-align: center;
     border: solid 5px darkgrey;
-    border-radius:30px;
-    width:200px;
-    margin:auto;
-    
+    border-radius: 30px;
+    width: 200px;
+    margin: auto;
 }
